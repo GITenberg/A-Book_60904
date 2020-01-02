@@ -1,0 +1,36 @@
+_repo: A-Book_60904
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barnes, Djuna
+    alias: Steptoe, Lydia
+    birthdate: 1892
+    deathdate: 1982
+    gutenberg_agent_id: '51179'
+    url: http://www.gutenberg.org/2009/agents/51179
+    wikipedia: https://en.wikipedia.org/wiki/Djuna_Barnes
+description: Illustrated by the author.
+gutenberg_issued: '2019-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60904'
+  lccn: '23014379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'American poetry -- 20th century'
+- !lcsh 'American drama -- 20th century'
+- !lcsh 'American fiction -- 20th century'
+- GITenberg
+tableOfContents: A night among the horses -- Three from the earth -- The valet --
+  To the dogs -- Beyond the end -- Pastoral -- Oscar -- Antique -- Katrina Silverstaff
+  -- Hush before love -- The robin's house -- Paradise -- No-man's-mare -- Six songs
+  of Khalidine -- The dove -- Mother -- Song in autumn -- The nigger -- Lullaby --
+  Indian summer -- I'd have you think of me -- The rabbit -- The flowering corpse
+  -- A boy asks a question of a lady -- First Communion -- Finis.
+title: A Book
+url: http://www.gutenberg.org/ebooks/60904
